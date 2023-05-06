@@ -467,7 +467,7 @@ footer{
     border: none;
     outline: none;
     background-color: transparent;
-    color: white;
+    color: rgb(248, 247, 247);
     cursor: pointer;
 }
 .footer__form > p{
